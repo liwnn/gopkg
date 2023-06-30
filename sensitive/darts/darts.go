@@ -1,7 +1,7 @@
 package darts
 
 import (
-	"github.com/liwnn/bitset"
+	"github.com/liwnn/gopkg/bitset"
 )
 
 const (

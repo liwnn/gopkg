@@ -3,7 +3,7 @@ package bloomfilter
 import (
 	"math"
 
-	"github.com/liwnn/bitset"
+	"github.com/liwnn/gopkg/bitset"
 )
 
 // BloomFilter 布隆过滤器
